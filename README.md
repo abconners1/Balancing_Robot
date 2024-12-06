@@ -1,4 +1,6 @@
 # Balancing Robot with MPU6050 and PID Control
+Demonstration: 
+https://youtu.be/XPemdZGGN2E
 
 This project implements a balancing robot using an MPU6050 6-axis gyroscope and accelerometer and a PID control algorithm. The robot uses the accelerometer data to calculate the tilt angle and adjusts the motor speed and direction to maintain balance.
 
